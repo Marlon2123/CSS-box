@@ -1,0 +1,41 @@
+.container{
+    
+    width:400px;
+    margin: 0 auto;
+    background-color: #fefefe;
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 0.5rem;
+    
+}
+section article{
+    transition: box-shadow 0.3s ease;
+}
+
+section article :hover{
+    box-shadow: 0 0.1rem 0.4rem rgba(255, 255, 255, 0.3);
+}
+    section article h1{
+        text-align: center;
+        font-size: 2rem;
+        margin:10px auto 10px auto;
+        }
+.one{
+    text-align: center;
+    margin:5px auto 10px auto;
+}
+
+.two{
+    text-align: center;
+    margin:0 auto 10px auto;
+}
+
+.three{
+    text-align: center;
+    margin: 0 auto 10px auto;
+}
+
+.four{
+    text-align: center;
+    
+}
